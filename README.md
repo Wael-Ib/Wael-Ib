@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, python, java**
 
-- 📫 How to reach me **iwael1377@gmail.com**
+- 📫 How to reach me **ibrahim.wael.lb@gmail.com**
 
 - 📄 Know about my experiences [https://techrez.io/resume/wael-ibrahim](https://techrez.io/resume/wael-ibrahim)
 
